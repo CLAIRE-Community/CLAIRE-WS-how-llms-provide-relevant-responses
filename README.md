@@ -103,6 +103,8 @@ Stay tuned for more workshops in our CLAIRE event series, where we bring AI and 
 - **Event Description**:  
   CLAIRE is thrilled to collaborate with **Campus Founders**, a startup and co-innovation hub, on a series of community-led events. This first workshop featured **Shivangi Singh**, Co-Founder and CTO of **AICU**, who explained the technical details of how LLMs generate relevant, context-aware responses, making AI concepts more accessible.
 
+![Event Host and Moderator](https://github.com/CLAIRE-Community/CLAIRE-WS-how-llms-provide-relevant-responses/blob/main/host_and_moderator_CLAIRE%20-%20How%20LLMs%20Provide%20Relevant%20Responses.png)
+
 ---
 
 ### License:
