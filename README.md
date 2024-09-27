@@ -15,6 +15,8 @@ You can view the slides used during the workshop here: [**Workshop Slides**](htt
 ---
 
 ### 📢 **Speaker: Shivangi Singh**
+![Speaker Focus](https://github.com/CLAIRE-Community/CLAIRE-WS-how-llms-provide-relevant-responses/blob/main/speaker%20focus%20slide%20_%20Shivangi%20Singh%20-%20CLAIRE%20-%20How%20LLMs%20Provide%20Relevant%20Responses.png)
+
 Shivangi Singh is a dynamic Data Scientist and Machine Learning Engineer with extensive experience in software development. As Co-Founder and CTO of **AICU**, she leads the development of automation platforms for medical research. With a proven track record at Daimler and Octimine, Shivangi has revolutionized machine learning models and pipelines, driving significant performance improvements.
 
 Holding a Master’s degree in Machine Learning from TU Dresden, Shivangi is also a passionate educator and mentor, actively engaging in STEM initiatives and teaching complex tech concepts. Her expertise spans advanced Python, machine learning, and data analysis, driving her commitment to inspiring the next generation of tech leaders.
