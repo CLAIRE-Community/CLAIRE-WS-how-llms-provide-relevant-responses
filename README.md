@@ -15,9 +15,11 @@ You can view the slides used during the workshop here: [**Workshop Slides**](htt
 ---
 
 ### 📢 **Speaker: Shivangi Singh**
-Shivangi Singh is a dynamic Data Scientist and Machine Learning Engineer with extensive experience in software development. As Co-Founder and CTO of **AICU**, she leads the development of automation platforms for medical research. Shivangi has worked with major organizations like **Daimler** and **Octimine**, where she revolutionized machine learning models and pipelines.
+Shivangi Singh is a dynamic Data Scientist and Machine Learning Engineer with extensive experience in software development. As Co-Founder and CTO of **AICU**, she leads the development of automation platforms for medical research. With a proven track record at Daimler and Octimine, Shivangi has revolutionized machine learning models and pipelines, driving significant performance improvements.
 
-In this workshop, Shivangi shared her expertise on how Large Language Models (LLMs), like GPT and BERT, generate relevant responses, focusing on the technical mechanisms and practical applications.
+Holding a Master’s degree in Machine Learning from TU Dresden, Shivangi is also a passionate educator and mentor, actively engaging in STEM initiatives and teaching complex tech concepts. Her expertise spans advanced Python, machine learning, and data analysis, driving her commitment to inspiring the next generation of tech leaders.
+
+In this workshop, Shivangi shared her expertise on how Large Language Models (LLMs) generate relevant responses, focusing on the technical mechanisms and practical applications.
 
 **LinkedIn**: [Shivangi Singh](https://www.linkedin.com/in/shivangi-data-scientist/)
 
